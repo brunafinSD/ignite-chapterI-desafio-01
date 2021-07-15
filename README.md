@@ -18,4 +18,4 @@ $ yarn
 - $ yarn dev
 - A aplicação estará disponível no seu browser pelo endereço http://localhost:8080
 
-### Para ver a imagem da aplicação abra o arquivo todoImg.png encontrado na raízdo projeto
+### Para ver a imagem da aplicação abra o arquivo todoImg.png encontrado na raíz do projeto
